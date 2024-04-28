@@ -1,7 +1,7 @@
 # 최저가 서비스 & 실시간 인기 상품 추천 서비스 제공 이커머스 
 
 ## 사용기술
-- JAVA 17, Spring Boot 2.3, MyBatis, MySQL, Redis, Python, Locust
+- Java 17, Spring Boot 2.7.7, Redis, Kafka
   
 ## 프로그램 주요 기능
 - 회원
